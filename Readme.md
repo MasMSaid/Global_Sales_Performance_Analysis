@@ -26,7 +26,7 @@ The dashboard provides an **interactive analysis of global sales and profit tren
 
 Click the image below to view the interactive dashboard on Tableau Public:
 
-[![Dashboard Screenshot](dashboard.png)](https://public.tableau.com/views/Assignment_Tableau_17626373242310/Dashboard2)
+[![Dashboard Screenshot](Dashboard.png)](https://public.tableau.com/views/Assignment_Tableau_17626373242310/Dashboard2)
 
 
 - **KPI Cards:**  
